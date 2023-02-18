@@ -6,3 +6,4 @@ __MACOSX/
 *.csv
 dataset/
 *.fth
+.DS_Store
