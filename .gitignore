@@ -7,3 +7,4 @@ __MACOSX/
 dataset/
 *.fth
 .DS_Store
+logs/
